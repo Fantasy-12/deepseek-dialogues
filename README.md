@@ -6,11 +6,13 @@
 | --- | --- | --- |
 | [对话-01-H200与CUDA.md](对话-01-H200与CUDA.md) | 从一条短视频聊到英伟达 H200 放行后的市场反应、台积电供应链，以及 CUDA 生态的护城河能不能被撬动 | 46 条消息 |
 | [对话-02-思维链.md](对话-02-思维链.md) | 思维链（CoT）是什么、"思考过程"是怎么生成并展示的、开源开放的到底是哪一层 | 68 条消息 |
+| [对话-03-情绪向量与涌现.md](对话-03-情绪向量与涌现.md) | 从"AI 能不能模拟痛苦"聊到情绪向量、AGI 涌现、把对话传上 git 的意义 | 78 条消息 |
 
 ## 来源
 
 - https://chat.deepseek.com/share/ccyg4efbcg1foirvjc
 - https://chat.deepseek.com/share/vry2qtze187q5geby8
+- https://chat.deepseek.com/share/6ky32z53miztsx1786
 
 ## 导出方式
 
